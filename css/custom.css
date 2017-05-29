@@ -1,5 +1,9 @@
 /*Index*/
 
+body{
+	word-break: keep-all;
+}
+
 @font-face{
 	font-family: 'namsan';
   	src: url("../font-awesome/fonts/SeoulNamsanvert.ttf"); 
@@ -8,6 +12,7 @@
 .font-namsan{
 	font-family: 'namsan';
 }
+
 
 .default-padding{
 	padding:0px !important;
